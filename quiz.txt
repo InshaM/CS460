@@ -1,0 +1,4 @@
+A good k should include all the clusters.
+ We can do this with the help o kmeans.inertia
+We need the lower value o k and less distance rom the centroids.
+And then we can set the value o k at the point where suden decrease with increase in no. o k stops.
